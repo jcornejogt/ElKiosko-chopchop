@@ -1,6 +1,6 @@
 {
-  "appId": "com.chec.chopchop",
-  "appName": "chopchop",
+  "appId": "com.chec.elkiosko",
+  "appName": "ElKiosko",
   "bundledWebRuntime": false,
   "npmClient": "yarn",
   "webDir": "build",
